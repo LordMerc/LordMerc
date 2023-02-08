@@ -1,5 +1,5 @@
 ### Hi there 👋
-Resume page: https://lordmerc.github.io/ResumeGitHub/
+I need to add more info here
 <!--
 **LordMerc/LordMerc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
